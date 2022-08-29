@@ -5,6 +5,8 @@ int main(int argc, char **argv) {
 
     printf("Braxton Smith!\n");
     printf("Computer Engineering\n");
+    printf("Jackson Meyer")
+    printf("Electrical Engineering")
 
     return 0;
 }
