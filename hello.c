@@ -5,7 +5,7 @@ int main(int argc, char **argv) {
 
     printf("Braxton Smith!\n");
     printf("Computer Engineering\n");
-    printf("Jackson Meyer")
+    printf("Jackson G Meyer")
     printf("Electrical Engineering")
 
     return 0;
